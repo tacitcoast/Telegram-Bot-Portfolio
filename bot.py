@@ -1,6 +1,6 @@
 #библиотеки, которые загружаем из вне
 import telebot
-TOKEN = '6141411370:AAFwJst4F1kOZjPFP9TGdzLJhgs7Dx3sZn4'
+TOKEN = 'твой токен бота'
 
 from telebot import types
 
