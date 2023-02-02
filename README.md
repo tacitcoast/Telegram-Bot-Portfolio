@@ -1,5 +1,8 @@
 # 🦄 My business card bot
 
+[Код для бота](https://github.com/tacitcoast/Telegram-Bot-Portfolio/blob/main/bot.py)
+
+[Ссылка на бота](https://t.me/qa_delaware_bot) - *может быть приостановлен*
 
 ## Как создать бот
 - Создай своего бота Telegram через бот [BotFather](https://t.me/BotFather)
