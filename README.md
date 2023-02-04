@@ -1,6 +1,8 @@
 # 🦄 My business card bot
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![Profile views](https://gpvc.arturio.dev/tacitcoast)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 
 Бот визитка для портфолио
 
