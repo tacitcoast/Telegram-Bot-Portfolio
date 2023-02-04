@@ -1,12 +1,16 @@
 # 🦄 My business card bot
 
-Бот визитка для портфолио, визуализация:
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+Бот визитка для портфолио
+
+- [Код для бота](https://github.com/tacitcoast/Telegram-Bot-Portfolio/blob/main/bot.py)
+
+- [Ссылка на бота](https://t.me/qa_delaware_bot) - *может быть приостановлен*
+
+Визуализация:
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/44261093/216407848-64272205-bb63-454f-99e2-8f161dec205e.png">
-
-[Код для бота](https://github.com/tacitcoast/Telegram-Bot-Portfolio/blob/main/bot.py)
-
-[Ссылка на бота](https://t.me/qa_delaware_bot) - *может быть приостановлен*
 
 ## Как создать бот
 - Создай своего бота Telegram через бот [BotFather](https://t.me/BotFather)
